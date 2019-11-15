@@ -1,0 +1,21 @@
+body {
+  color: gray;
+}
+
+h1 {
+    text-align: center;
+}
+.gray {
+    color: gray;
+}
+.exp {
+    margin-left: 35%;
+    margin-bottom: 100px;
+    margin-top: 50px;
+}
+.bold {
+    font-weight: bold;
+}
+.center {
+    text-align: center;    
+}
